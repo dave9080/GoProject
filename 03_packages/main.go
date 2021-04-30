@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/dave9080/GoProject1/03_packages/strutil"
+	"github.com/dave9080/GoProject/03_packages/strutil"
 )
 
 func main() {
