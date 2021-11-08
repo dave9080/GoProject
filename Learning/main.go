@@ -4,7 +4,7 @@ import ("fmt"
 )
 
 func main() {
-	i := 42
-	fmt.Println(i)
+	grades := [...]int{97, 85, 93}
+	fmt.Printf("Grades: %v", grades)
 }
 
